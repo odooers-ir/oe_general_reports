@@ -8,7 +8,7 @@
     'author': "Odooers",
     'website': "https://www.odooers.ir/",
     'category': 'Customizations',
-    'version': '0.1',
+    'version': '17.0.1.0',
     'depends': ['base','sale','account'],
     'data': [
         'views/res_company_views.xml',
