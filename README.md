@@ -31,4 +31,4 @@
 این پروژه تحت مجوز `LGPLv3` منتشر شده است.
 
 # 📞 پشتیبانی
-برای گزارش باگ یا درخواست ویژگی‌های جدید به [صفحه ایشوهای ماژول](https://github.com/odooers-ir/oe_general_reports/issue) مراجعه نمایید.
+برای گزارش باگ یا درخواست ویژگی‌های جدید به [صفحه ایشوهای ماژول](https://github.com/odooers-ir/oe_general_reports/issues) مراجعه نمایید.
