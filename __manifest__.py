@@ -10,9 +10,6 @@
     'category': 'Customizations',
     'version': '0.1',
     'depends': ['base','sale','account'],
-    'external_dependencies': {
-        'python': ['num2words>=0.5.14']
-    },
     'data': [
         'views/res_company_views.xml',
         
