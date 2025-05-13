@@ -21,7 +21,7 @@
     ],
     'assets': {
         'web.report_assets_common': [         
-            'oe_general_reports/static/src/styles/report.scss'
+            'oe_general_reports/static/src/styles/*.scss',
         ],
     },
 }
